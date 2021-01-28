@@ -1,0 +1,22 @@
+{
+    "name": "Elite-pack",
+    "displayName": "Extension Pack",
+    "description": "pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "coenraads.bracket-pair-colorizer-2",
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "formulahendry.code-runner",
+        "intellsmi.comment-translate",
+        "elite.elitejbi",
+        "elite.elitelua",
+        "oderwat.indent-rainbow",
+        "liximomo.sftp"
+    ]
+}
