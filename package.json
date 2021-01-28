@@ -3,6 +3,7 @@
     "displayName": "Extension Pack",
     "description": "pack",
     "version": "0.0.1",
+    "publisher": "HaoQiGuaiO",
     "engines": {
         "vscode": "^1.52.0"
     },
