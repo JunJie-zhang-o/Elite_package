@@ -68,10 +68,14 @@
      >
      > 输入**SFTP：List**打开远端设备对应配置路径的列表
 
-     ![](https://ae01.alicdn.com/kf/Ucc701e148daa4387920ab9490ec71eb0j.jpg)
+     ![](60386794ada63.jpg)
 
+     > 对应的jbi文件放置在WorkSpace文件下
+   >
+     > 对应的lua脚本文件放置在luadir文件下
+  
      ###### SFTP配置内容-链接jbi文件地址 
-
+  
      ```json
      {
          "name": "My Server",
@@ -81,13 +85,13 @@
          "username": "root",
          "password": "elite2014",
          "remotePath": "/rbctrl/",
-         "uploadOnSave": true
+       "uploadOnSave": true
      }
-     
+   
      ```
-
+  
      ###### SFTP配置内容-链接lua文件地址 
-
+  
      ```json
      {
          "name": "My Server",
@@ -97,9 +101,9 @@
          "username": "root",
          "password": "elite2014",
          "remotePath": "/rbctrl/",
-         "uploadOnSave": true
+       "uploadOnSave": true
      }
-     
+   
      ```
 
      ###### 从远端设备上传至电脑
@@ -147,9 +151,9 @@
      ###### 安装与使用
 
      ![](https://ae01.alicdn.com/kf/U46bff27e8e744d0ab353779a11057436f.jpg)
-
+  
   9. ##### Code Runner
-
+  
      ###### 安装
   
      ![](https://ae01.alicdn.com/kf/U519bcbf58efa48c395425d8dbcc6ffefo.jpg)
